@@ -17,9 +17,9 @@ Folder Structure
 ├── .ipynb_checkpoints/    # Checkpoints for Jupyter Notebooks
 ├── app.py                 # Main script to run the Streamlit app
 ├── emotion_models.h5      # Trained CNN model for emotion detection
-├── Image/                 # Folder for input images
+├── Image/                 # input image
 ├── musics/                # Contains music files for different emotions
-└── train/                 # Training data and scripts
+└── train/                 # Training data and scripts includes [ happy,sad,angry,neutral]
 
 Running the Project
 
